@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1021666628920",
+    "firebase_url": "https://daly-shopping-list-e6fce.firebaseio.com",
+    "project_id": "daly-shopping-list-e6fce",
+    "storage_bucket": "daly-shopping-list-e6fce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021666628920:android:b43994597457e0c82b9dcd",
+        "android_client_info": {
+          "package_name": "pciu.cse011.helloworld.dalyshoppinglist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021666628920-4o7pfd5b9vpghppsnjhjjm4auhpegq0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUM2U9PPDz35-szMj_-nfCPyN5HN3yFkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021666628920-4o7pfd5b9vpghppsnjhjjm4auhpegq0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
