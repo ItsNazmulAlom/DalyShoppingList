@@ -18,14 +18,20 @@
             android:orientation="vertical">
 
 
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                tools:srcCompat="@tools:sample/avatars" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Registration"
-                android:textColor="@android:color/white"
+                android:gravity="center"
+                android:text="User"
                 android:textAppearance="@style/TextAppearance.AppCompat.Large"
-                android:gravity="center"/>
+                android:textColor="@android:color/white" />
             <EditText
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

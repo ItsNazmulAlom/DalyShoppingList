@@ -71,16 +71,14 @@
         </LinearLayout>
 
         <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/fab"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="bottom|end"
             android:layout_margin="50dp"
-            app:fabSize="normal"
             android:src="@drawable/plus"
-            android:id="@+id/fab"
             app:backgroundTint="#FF3D9B1B"
-            />
-
+            app:fabSize="normal" />
 
 
     </androidx.coordinatorlayout.widget.CoordinatorLayout>
